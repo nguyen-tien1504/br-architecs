@@ -38,7 +38,8 @@ li {
 }
 img {
   display: block;
-  width: 100%;
+  max-width: 100%;
+  border-style: none;
 }
 h3 {
   font-weight: 400;
