@@ -84,11 +84,15 @@
   padding: 8px 16px;
   filter: grayscale(75%);
 }
+.about-item {
+  padding-bottom: 15px;
+}
 .item-job {
   opacity: 0.6;
+  margin-top: 15px;
 }
 .item-des {
-  padding: 15px 0;
+  margin: 15px 0;
 }
 .item-button {
   border: none;
@@ -115,7 +119,7 @@
   display: block;
   width: 100%;
   padding: 8px;
-  margin: 16px 0;
+  margin-bottom: 16px;
   border: 1px solid #ccc;
   font-size: 15px;
   line-height: 22.5px;
@@ -123,8 +127,7 @@
 .contact-submit {
   color: #fff;
   background-color: #000;
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin: 16px 0;
 }
 /* MAP */
 .map {
