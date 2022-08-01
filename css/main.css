@@ -126,12 +126,16 @@
   margin-top: 16px;
   margin-bottom: 16px;
 }
+/* MAP */
+.map {
+  padding: 0 16px;
+}
 /* FOOTER  */
 .footer {
   color: #fff;
   background-color: #000;
-  padding: 16px 0;
   text-align: center;
+  padding: 16px 0;
 }
 .footer-link {
   color: #fff;
@@ -139,4 +143,7 @@
 }
 .footer-link:hover {
   color: #4caf50;
+}
+.footer-title {
+  margin: 15px 0;
 }
